@@ -1,6 +1,6 @@
 package ru.melni;
 
-private static string msg = "Hello QA!!!!!";
+private static string msg = "Hello QA!";
 
 public class Main {
     public static void main(String[] args) {
